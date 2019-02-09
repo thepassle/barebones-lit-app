@@ -1,0 +1,31 @@
+{
+  "name": "barebones-lit-app",
+  "version": "0.0.0",
+  "description": "A barebones scaffolding app to get started with LitElement",
+  "main": "index.js",
+  "scripts": {
+    "start": "owc-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepassle/barebones-lit-app.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "litelement",
+    "lithtml"
+  ],
+  "author": "Pascal Schilp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepassle/barebones-lit-app/issues"
+  },
+  "homepage": "https://github.com/thepassle/barebones-lit-app#readme",
+  "devDependencies": {
+    "owc-dev-server": "^0.1.2"
+  },
+  "dependencies": {
+    "lit-element": "^2.0.1",
+    "lit-html": "^1.0.0"
+  }
+}
